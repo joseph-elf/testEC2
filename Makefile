@@ -3,7 +3,7 @@ CFLAGS = -std=c++0x -Wall -g
 EXEC_NAME = barnes-hut
 INCLUDES =
 LIBS =
-OBJ_FILES = barnes-hut.o
+OBJ_FILES = test.o
 
 all : $(EXEC_NAME)
 
